@@ -1,0 +1,6 @@
+Create the following files and folders:
+
+- `server.js` (Entry point)
+- `models/` (for Mongoose models)
+- `routes/` (for API endpoints)
+- `middleware/` (for authentication middleware)
