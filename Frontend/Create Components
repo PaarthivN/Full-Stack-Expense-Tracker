@@ -1,0 +1,7 @@
+Create components for Authentication and Expense Management:
+
+- `components/Signup.js`
+- `components/Login.js`
+- `components/ExpenseForm.js`
+- `components/ExpenseList.js`
+- `components/PieChart.js`
